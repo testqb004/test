@@ -1,0 +1,7 @@
+{
+    "Settings": {
+        "amountOfThreads": 1,
+        "payoutId": "YOURWALLET",
+        "alias": "YOURALIAS"
+    }
+}
